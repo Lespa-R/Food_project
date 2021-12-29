@@ -1,10 +1,9 @@
 # Data analysis
 - Document here the project: Fuzi_project
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: the idea is to use restaurant billing history, wheather and several other factors to predict how many customer a restaurant will have. 
+- Data Source: API wheather + history of friends restaurants.
+- Type of analysis: I tried for now basic regression and Facebook Prophet.
 
-Please document the project the better you can.
 
 # Startup the project
 
